@@ -1,0 +1,36 @@
+h1 { 
+    text-align: center; 
+    color: fuchsia;
+    font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+    font-size: 50px;
+    background-color: yellow;
+}
+
+p {
+    text-align: center; 
+    color: hotpink;
+    font-weight: bold;
+    background-color: lightgreen;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: antiquewhite;
+  }
+
+  li {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+
+img {
+        width: 300px;
+        height: auto;
+      
+}
